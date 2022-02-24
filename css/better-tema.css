@@ -1,5 +1,5 @@
 .jumbotron {
   background-image: url(../img/vitrine.jpg);
-  background-size: cover;
-  background-position: center;
+  background-size: cover;/* Colocar a imagem do tamanho da tag main*/
+  background-position: center;/*Centralizar a imagem*/
 }
